@@ -1,0 +1,23 @@
+{
+    "name": "brackets-indent-rainbow",
+    "title": "Indent Rainbow",
+    "version": "1.00",
+    "description": "Add background for indents",
+    "homepage": "https://github.com/faktycznie/brackets-indent-rainbow",
+    "author": "Artur Kaczmarek",
+    "license": "MIT",
+    "categories":"editing",
+    "keywords": [
+				"indent",
+        "indentation",
+        "guide",
+				"rainbow",
+				"color"
+    ],
+    "files": [
+        "main.js",
+    ],
+    "engines": {
+        "brackets": ">=1.4.0"
+    }
+}
