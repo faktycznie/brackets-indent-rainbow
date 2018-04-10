@@ -8,14 +8,14 @@
     "license": "MIT",
     "categories":"editing",
     "keywords": [
-				"indent",
+        "indent",
         "indentation",
         "guide",
-				"rainbow",
-				"color"
+        "rainbow",
+        "color"
     ],
     "files": [
-        "main.js",
+        "main.js"
     ],
     "engines": {
         "brackets": ">=1.4.0"
