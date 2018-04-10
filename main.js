@@ -64,7 +64,7 @@ define(function (require, exports, module) {
     });
 
     function updateStyleRules() {
-        if ($("#indent-rainbow-css").length) {
+        if ( $("#indent-rainbow-css").length ) {
             $("#indent-rainbow-css").remove();
         }
         var cssStr = ".cm-rainbow-indent1{background:" + tab1color + "}";
